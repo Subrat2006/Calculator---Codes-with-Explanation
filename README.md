@@ -12,6 +12,7 @@ These codes (which start with hashtag) are the comments and these contains the e
 # Screenshots of the Output
 These are the Screenhots of the Project (these are in Visual Stusio Code):
 <img src = "Terminal.png"></img>
+These are the Output of each and every Arithmetic Operator in this Calculator 👆
 
 # Overview
 This Project is made as a Test Calculator andd the advantages of this would be as follows:
